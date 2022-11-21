@@ -1,6 +1,5 @@
 {
-    "deno.enable": true,
-    "deno.lint":true,
-    "deno.unstable": false,
-    "workbench.editor.showTabs": false
+  "deno.enable": true,
+  "deno.lint": true,
+  "editor.defaultFormatter": "denoland.vscode-deno"
 }
